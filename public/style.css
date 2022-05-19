@@ -21,6 +21,10 @@ a {
   color: #2574A9;
 }
 
+h2 {
+  color: #f02828;
+}
+
 input {
   display: block;
   position: relative;
